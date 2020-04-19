@@ -1,0 +1,19 @@
+ #include<iostream>
+ using namespace std;
+ int main()
+ {
+ 	int i;
+ 	for (i=0;i<8;i++)
+ 	{
+ 		if (i==5)
+ 		{
+ 			contiune;
+		 }
+ 		cout<<i<<endl;
+ 		
+ 		
+	 }
+
+
+    return 0;
+}
